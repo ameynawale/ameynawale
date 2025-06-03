@@ -27,11 +27,9 @@ Here are some of the projects I've worked on:
 
 ## 🛠️ Skills & Technologies
 
-- **Languages:** Java, JavaScript, TypeScript
-- **Frontend:** React.js, Angular
-- **Backend:** Node.js, Express.js, Spring Boot
-- **Databases:** MySQL, MongoDB, Redis
-- **Others:** Kafka, Docker, AWS
+- **Languages:** Go, Java, Python, JavaScript, C++, C#
+- **Databases:** MySQL, MongoDB, PostgreSQL, Redis
+- **Others:** Kafka, RabbitMQ, REST, gRPC, Kubernetes, Docker, Prometheus, Grafana
 
 ---
 
