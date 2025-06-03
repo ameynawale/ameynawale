@@ -2,7 +2,7 @@
 
 🎯 **Software Engineering at Tesla**
 
-Welcome to my GitHub profile! I'm a passionate software engineer with a strong foundation in Java and JavaScript. I enjoy building scalable web applications and exploring new technologies.
+Welcome to my GitHub profile! I'm a passionate software engineer with a strong foundation data structures and algorithms. I enjoy building scalable web applications and exploring new technologies.
 
 ---
 
