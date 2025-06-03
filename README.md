@@ -38,7 +38,7 @@ Here are some of the projects I've worked on:
 I'm always open to discussing new projects, collaborations, or opportunities. Feel free to reach out!
 
 - **Email:** [amey.nawale12@gmail.com](mailto:amey.nawale12@gmail.com)
-- **LinkedIn:** [linkedin.com/in/ameya-nawale](https://www.linkedin.com/in/ameya-nawale)
+- **LinkedIn:** <a href="https://www.linkedin.com/in/ameya-nawale" target="_blank">linkedin.com/in/ameya-nawale</a>
 
 ---
 
