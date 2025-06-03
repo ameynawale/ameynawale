@@ -30,7 +30,7 @@ Here are some of the projects I've worked on:
 - **Languages:** Java, JavaScript, TypeScript
 - **Frontend:** React.js, Angular
 - **Backend:** Node.js, Express.js, Spring Boot
-- **Databases:** MySQL, MongoDB
+- **Databases:** MySQL, MongoDB, Redis
 - **Others:** Kafka, Docker, AWS
 
 ---
