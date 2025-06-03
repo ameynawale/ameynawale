@@ -41,6 +41,5 @@ I'm always open to discussing new projects, collaborations, or opportunities. Fe
 
 ![Ameya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ameynawale&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ameynawale&layout=compact)
-![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ameynawale&theme=github-compact)
 
 *“Striving for excellence.”*
